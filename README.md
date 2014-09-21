@@ -16,3 +16,6 @@ accessing-Google
 
     请使用国际版google. 防止google本地化重定向: 访问一下https://www.google.com/ncr
     请使用https替代http访问.
+
+
+我的主页：http://segmentfault.com/u/trigkit4
