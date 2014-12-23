@@ -18,17 +18,17 @@ accessing-Google
     请使用https替代http访问.
 这里推荐几个反代`google`的网站，可以直接搜索做备用哦~
 
-http://173.194.14.53/
-http://209.116.186.231/
-http://210.242.125.83/
-https://g.ttlsa.com/
-https://www.glgoo.com/
-https://www.glgoo.com/
-https://scholar.glgoo.com/
-https://xie.lu/
-https://wen.lu/
-https://g.conn.cc/
-http://google.0zv.net/
+http://173.194.14.53/<br/>
+http://209.116.186.231/<br/>
+http://210.242.125.83/<br/>
+https://g.ttlsa.com/<br/>
+https://www.glgoo.com/<br/>
+https://www.glgoo.com/<br/>
+https://scholar.glgoo.com/<br/>
+https://xie.lu/<br/>
+https://wen.lu/<br/>
+https://g.conn.cc/<br/>
+http://google.0zv.net/<br/>
 
 
 
