@@ -18,10 +18,13 @@ accessing-Google
     请使用https替代http访问.
 这里推荐几个反代`google`的网站，可以直接搜索做备用哦~
 
+
+https://www.google.com/?gws_rd=ssl<br/>
+https://iustudio.science<br/>
 http://173.194.14.53/<br/>
 http://209.116.186.231/<br/>
-http://210.242.125.83/<br/>
-https://g.ttlsa.com/<br/>
+http://64.233.162.84/<br/>
+
 https://www.glgoo.com/<br/>
 https://www.glgoo.com/<br/>
 https://scholar.glgoo.com/<br/>
